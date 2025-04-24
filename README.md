@@ -60,4 +60,4 @@ Empresas que apostam em automação economizam tempo e recursos, e permitem que 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Vinícius Franco](https://www.linkedin.com/in/vin%C3%ADcius-franco), desenvolvedor RPA apaixonado por automações que geram impacto real no dia a dia das equipes.
+Desenvolvido por [Vinícius Franco](https://www.linkedin.com/in/vin%C3%ADcius-franco).
